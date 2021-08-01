@@ -1,7 +1,7 @@
 # QuickBooks Integration
 
 The Invoice Importer by Sangwa is a desktop application integrated with the accounting software QuickBooks to automate the client invoicing processes.
-This application has reduced manual entry times by up to 94%, by recognizing common patterns in invoice process and providing a clean user interface to processing invoices in bulk.
+This application has reduced manual entry times by up to 94%, by recognizing common patterns in invoice processing and providing a clean user interface to processing invoices in bulk.
 
 The code base is in C#, with a SQLite database, a XAML user interface, and integrates with the QuickBooks SDK to import staffing placement data and create invoices. Client data has been scrubbed and the images below provide a snapshot of a synthetic data set that is similar to the one in use currently.
 
