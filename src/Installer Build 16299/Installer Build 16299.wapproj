@@ -56,7 +56,7 @@
     <DefaultLanguage>en-US</DefaultLanguage>
     <AppxPackageSigningEnabled>True</AppxPackageSigningEnabled>
     <EntryPointProjectUniqueName>..\WPFDesktopUI\WPFDesktopUI.csproj</EntryPointProjectUniqueName>
-    <PackageCertificateThumbprint>A01B07A7C2A16E81AAF9B6BF9490AD0153C88FE1</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>9FEBBC492A8FC762616CBDF1C6F80C5BE1D3749F</PackageCertificateThumbprint>
     <GenerateAppInstallerFile>False</GenerateAppInstallerFile>
     <AppxPackageSigningTimestampDigestAlgorithm>SHA256</AppxPackageSigningTimestampDigestAlgorithm>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
