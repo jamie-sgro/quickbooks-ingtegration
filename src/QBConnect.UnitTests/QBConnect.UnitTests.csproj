@@ -20,6 +20,7 @@
     <TestProjectType>UnitTest</TestProjectType>
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -83,7 +84,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\QBConnect\QBConnect.csproj">
-      <Project>{370F8889-4815-4BC4-ADBF-BF305A4A41A3}</Project>
+      <Project>{370f8889-4815-4bc4-adbf-bf305a4a41a3}</Project>
       <Name>QBConnect</Name>
     </ProjectReference>
   </ItemGroup>
