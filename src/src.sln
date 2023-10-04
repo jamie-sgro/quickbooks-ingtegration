@@ -1,13 +1,16 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29709.97
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFDesktopUI", "WPFDesktopUI\WPFDesktopUI.csproj", "{C75264BD-5136-4FB1-8857-44AC126EF9E4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QBConnect", "QBConnect\QBConnect.csproj", "{370F8889-4815-4BC4-ADBF-BF305A4A41A3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCBusinessLogic", "MCBusinessLogic\MCBusinessLogic.csproj", "{83EAEC0B-5CAF-4767-841B-21D913A8557A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{370F8889-4815-4BC4-ADBF-BF305A4A41A3} = {370F8889-4815-4BC4-ADBF-BF305A4A41A3}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCBusinessLogic.UnitTests", "MCBusinessLogic.UnitTests\MCBusinessLogic.UnitTests.csproj", "{49EF2066-441D-44AF-B34F-5158781C7048}"
 EndProject
